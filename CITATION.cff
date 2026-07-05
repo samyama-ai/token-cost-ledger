@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this harness or its findings, please cite the paper and this repository."
+title: "The Token-Cost Ledger: a harness for decomposing the multilingual tokenization tax"
+authors:
+  - family-names: Mandarapu
+    given-names: Madhulatha
+    email: madhulatha@samyama.ai
+    affiliation: "VaidhyaMegha Private Limited"
+  - family-names: Kunkunuru
+    given-names: Sandeep
+    email: sandeep@samyama.ai
+    affiliation: "VaidhyaMegha Private Limited"
+license: Apache-2.0
+repository-code: "https://github.com/samyama-ai/optimal-language-for-foundation-models"
+keywords:
+  - tokenization
+  - information theory
+  - multilingual
+  - transformers
+  - source coding
+preferred-citation:
+  type: article
+  title: "Removable and Irreducible: A Token-Cost Ledger for the Multilingual Tokenization Tax"
+  authors:
+    - family-names: Mandarapu
+      given-names: Madhulatha
+    - family-names: Kunkunuru
+      given-names: Sandeep
+  year: 2026
+  notes: "arXiv preprint (cs.CL; cross-list cs.IT). ID pending."

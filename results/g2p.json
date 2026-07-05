@@ -1,0 +1,36 @@
+{
+  "English": {
+    "bits": 0.0699,
+    "homograph_rate": 0.067,
+    "n_types": 126052,
+    "basis": "measured (CMUdict homograph entropy)"
+  },
+  "Hindi": {
+    "bits": null,
+    "basis": "not-measured; literature: shallow abugida + Indo-Aryan schwa deletion (small)"
+  },
+  "Bengali": {
+    "bits": null,
+    "basis": "not-measured; literature: shallow abugida + Indo-Aryan schwa deletion (small)"
+  },
+  "Telugu": {
+    "bits": null,
+    "basis": "not-measured; literature: near-isomorphic Dravidian abugida (~deterministic)"
+  },
+  "Tamil": {
+    "bits": null,
+    "basis": "not-measured; literature: shallow Dravidian abugida (some allophony)"
+  },
+  "Kannada": {
+    "bits": null,
+    "basis": "not-measured; literature: near-isomorphic Dravidian abugida (~deterministic)"
+  },
+  "Spanish": {
+    "bits": null,
+    "basis": "not-measured; literature: shallow Latin orthography"
+  },
+  "German": {
+    "bits": null,
+    "basis": "not-measured; literature: fairly shallow Latin orthography"
+  }
+}

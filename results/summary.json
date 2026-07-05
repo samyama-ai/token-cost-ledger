@@ -1,0 +1,79 @@
+{
+  "config": {
+    "production": "cl100k_base",
+    "matched_vocab": 16000,
+    "n_eval_sentences": 1012,
+    "indic": [
+      "Hindi",
+      "Bengali",
+      "Telugu",
+      "Tamil",
+      "Kannada"
+    ]
+  },
+  "H1_removable": {
+    "rho_per_lang": {
+      "Hindi": 0.5895787307726105,
+      "Bengali": 0.6421370267944737,
+      "Telugu": 0.7403800364890123,
+      "Tamil": 0.6397594277463513,
+      "Kannada": 0.7516161197436892
+    },
+    "bootstrap_median_rho": {
+      "median_rho": 0.6421370267944737,
+      "ci_lo": 0.6378894568534059,
+      "ci_hi": 0.6465869968802033,
+      "B": 300
+    },
+    "PASS_ge_0.5": true
+  },
+  "H2_bpc_predicts_tax": {
+    "rho": 0.8333333333333334,
+    "p": 0.010175540121971416,
+    "n": 8
+  },
+  "nc2_calibration": {
+    "uniform32": {
+      "H_true": 5.0,
+      "H_est": 5.000009954718145,
+      "huffman_avg": 5.0,
+      "est_within_5pct": true,
+      "huffman_in_bracket": true
+    },
+    "skewed8": {
+      "H_true": 2.3998616847238927,
+      "H_est": 2.3974278855532365,
+      "huffman_avg": 2.4565725,
+      "block_pair_per_symbol": 2.418035,
+      "est_within_5pct": true,
+      "huffman_in_bracket": true,
+      "block_closer_to_H": true
+    },
+    "kraft_sum_leq_1": true,
+    "no_subfloor": true,
+    "PASS": true
+  },
+  "nc3_content_invariance": {
+    "nsl_floor": {
+      "English": 1.0,
+      "Spanish": 1.1227207864277786,
+      "German": 1.1540351989852544,
+      "Hindi": 1.0204534644046297,
+      "Bengali": 1.019264309497384,
+      "Telugu": 1.0416204217536071,
+      "Tamil": 1.0358332012050102,
+      "Kannada": 1.0581100364674172
+    },
+    "over_threshold": {},
+    "note": "languages over threshold carry intrinsic (non-removable) extra content bits",
+    "PASS": true
+  },
+  "nc4_g2p_direction": {
+    "english_bits_measured": 0.0699,
+    "english_measured_positive": true,
+    "others_measured": {},
+    "direction_independently_established": false,
+    "note": "organic-tax direction is literature-consistent but not measured here; future work",
+    "PASS": true
+  }
+}

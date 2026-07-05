@@ -1,0 +1,8 @@
+# Pinned to what the harness actually imports. No torch/transformers (tokenizers is standalone).
+tiktoken>=0.7
+tokenizers>=0.20
+regex>=2024.0
+cmudict>=1.0
+matplotlib>=3.8
+numpy>=1.26
+# stdlib used: lzma, bz2, heapq, json, urllib, tarfile

@@ -1,0 +1,13 @@
+{
+  "domain": {
+    "M_concepts": 256,
+    "zipf_s": 1.1,
+    "n_tokens": 400000
+  },
+  "floor_H_bits_per_concept": 5.767003415499221,
+  "mismatched_fixed_width_bits_per_concept": 8.0,
+  "matched_symbol_bits_per_concept": 5.8026475,
+  "matched_gap_to_floor_bits": 0.03564408450077927,
+  "redundancy_removed_by_match_bits": 2.1973525,
+  "redundancy_removed_frac": 0.9840375552975832
+}

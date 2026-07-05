@@ -1,0 +1,298 @@
+{
+  "English": {
+    "n_sent": 1012,
+    "clusters": 131966,
+    "words": 26016,
+    "utf8_bytes": 132096,
+    "bytes_per_cluster": 1.0009851022232998,
+    "tokens": {
+      "byte": 132096,
+      "grapheme": 131966,
+      "gpt2": 27044,
+      "cl100k_base": 27182,
+      "o200k_base": 26873,
+      "matched": 33678
+    },
+    "fertility_per_word": {
+      "byte": 5.077490774907749,
+      "grapheme": 5.0724938499385,
+      "gpt2": 1.0395141451414514,
+      "cl100k_base": 1.0448185731857318,
+      "o200k_base": 1.0329412669126692,
+      "matched": 1.2945110701107012
+    },
+    "nsl": {
+      "byte": 1.0,
+      "grapheme": 1.0,
+      "gpt2": 1.0,
+      "cl100k_base": 1.0,
+      "o200k_base": 1.0
+    },
+    "content_bits": 403648.0,
+    "nsl_floor": 1.0,
+    "nsl_matched": 1.0,
+    "matched_vocab": 10648,
+    "rho": NaN,
+    "attn_proxy_vs_eng": 1.0,
+    "attn_proxy_matched_vs_eng": 1.0
+  },
+  "Spanish": {
+    "n_sent": 1012,
+    "clusters": 157041,
+    "words": 29960,
+    "utf8_bytes": 159943,
+    "bytes_per_cluster": 1.0184792506415523,
+    "tokens": {
+      "byte": 159943,
+      "grapheme": 157041,
+      "gpt2": 53578,
+      "cl100k_base": 41974,
+      "o200k_base": 35415,
+      "matched": 38807
+    },
+    "fertility_per_word": {
+      "byte": 5.338551401869159,
+      "grapheme": 5.2416889185580775,
+      "gpt2": 1.7883177570093458,
+      "cl100k_base": 1.4010013351134847,
+      "o200k_base": 1.1820761014686247,
+      "matched": 1.295293724966622
+    },
+    "nsl": {
+      "byte": 1.2108088057170543,
+      "grapheme": 1.1900110634557386,
+      "gpt2": 1.9811418429226446,
+      "cl100k_base": 1.5441836509454787,
+      "o200k_base": 1.317865515573252
+    },
+    "content_bits": 453184.0,
+    "nsl_floor": 1.1227207864277786,
+    "nsl_matched": 1.152295266939842,
+    "matched_vocab": 12764,
+    "rho": 0.7201399441617911,
+    "attn_proxy_vs_eng": 2.3816693896174623,
+    "attn_proxy_matched_vs_eng": 1.3293410101290764
+  },
+  "German": {
+    "n_sent": 1012,
+    "clusters": 153809,
+    "words": 26274,
+    "utf8_bytes": 156358,
+    "bytes_per_cluster": 1.0165725022592955,
+    "tokens": {
+      "byte": 156358,
+      "grapheme": 153809,
+      "gpt2": 57925,
+      "cl100k_base": 43103,
+      "o200k_base": 35224,
+      "matched": 38105
+    },
+    "fertility_per_word": {
+      "byte": 5.95105427418741,
+      "grapheme": 5.854038212681739,
+      "gpt2": 2.2046509857653955,
+      "cl100k_base": 1.6405191444013092,
+      "o200k_base": 1.340640937809241,
+      "matched": 1.4502930653878359
+    },
+    "nsl": {
+      "byte": 1.1836694525193798,
+      "grapheme": 1.16551990664262,
+      "gpt2": 2.141879899423162,
+      "cl100k_base": 1.5857184901773231,
+      "o200k_base": 1.310758009898411
+    },
+    "content_bits": 465824.0,
+    "nsl_floor": 1.1540351989852544,
+    "nsl_matched": 1.1314507987410178,
+    "matched_vocab": 14854,
+    "rho": 0.7755734180404279,
+    "attn_proxy_vs_eng": 2.5312317550031156,
+    "attn_proxy_matched_vs_eng": 1.287291766652353
+  },
+  "Hindi": {
+    "n_sent": 1012,
+    "clusters": 85978,
+    "words": 29216,
+    "utf8_bytes": 337094,
+    "bytes_per_cluster": 3.9207006443508803,
+    "tokens": {
+      "byte": 337094,
+      "grapheme": 85978,
+      "gpt2": 200483,
+      "cl100k_base": 129364,
+      "o200k_base": 42292,
+      "matched": 85638
+    },
+    "fertility_per_word": {
+      "byte": 11.537992880613363,
+      "grapheme": 2.942839539978094,
+      "gpt2": 6.862096111719605,
+      "cl100k_base": 4.427847754654984,
+      "o200k_base": 1.4475629791894853,
+      "matched": 2.9312020810514787
+    },
+    "nsl": {
+      "byte": 2.551886506782946,
+      "grapheme": 0.6515162996529409,
+      "gpt2": 7.413215500665582,
+      "cl100k_base": 4.759178868368774,
+      "o200k_base": 1.5737729319391212
+    },
+    "content_bits": 411904.0,
+    "nsl_floor": 1.0204534644046297,
+    "nsl_matched": 2.542846962408694,
+    "matched_vocab": 2299,
+    "rho": 0.5895787307726105,
+    "attn_proxy_vs_eng": 22.80698939766366,
+    "attn_proxy_matched_vs_eng": 6.484280671398621
+  },
+  "Bengali": {
+    "n_sent": 1012,
+    "clusters": 81693,
+    "words": 23230,
+    "utf8_bytes": 344682,
+    "bytes_per_cluster": 4.219235430208219,
+    "tokens": {
+      "byte": 344682,
+      "grapheme": 81693,
+      "gpt2": 258446,
+      "cl100k_base": 157626,
+      "o200k_base": 45592,
+      "matched": 91515
+    },
+    "fertility_per_word": {
+      "byte": 14.837795953508394,
+      "grapheme": 3.516702539819199,
+      "gpt2": 11.12552733534223,
+      "cl100k_base": 6.7854498493327595,
+      "o200k_base": 1.9626345243219974,
+      "matched": 3.9395178648299614
+    },
+    "nsl": {
+      "byte": 2.609329578488372,
+      "grapheme": 0.6190458148310929,
+      "gpt2": 9.5565005176749,
+      "cl100k_base": 5.798911044073284,
+      "o200k_base": 1.696572768206006
+    },
+    "content_bits": 411424.0,
+    "nsl_floor": 1.019264309497384,
+    "nsl_matched": 2.7173525743809015,
+    "matched_vocab": 2593,
+    "rho": 0.6421370267944737,
+    "attn_proxy_vs_eng": 33.75928133723868,
+    "attn_proxy_matched_vs_eng": 7.381066236833464
+  },
+  "Telugu": {
+    "n_sent": 1012,
+    "clusters": 76602,
+    "words": 21406,
+    "utf8_bytes": 353711,
+    "bytes_per_cluster": 4.61751651392914,
+    "tokens": {
+      "byte": 353711,
+      "grapheme": 76602,
+      "gpt2": 350797,
+      "cl100k_base": 225286,
+      "o200k_base": 51863,
+      "matched": 97401
+    },
+    "fertility_per_word": {
+      "byte": 16.52391852751565,
+      "grapheme": 3.57852938428478,
+      "gpt2": 16.387788470522285,
+      "cl100k_base": 10.524432402130245,
+      "o200k_base": 2.4228253760627863,
+      "matched": 4.550172848733999
+    },
+    "nsl": {
+      "byte": 2.677681383236434,
+      "grapheme": 0.5804676962247852,
+      "gpt2": 12.971342996598135,
+      "cl100k_base": 8.2880582738577,
+      "o200k_base": 1.9299296691846834
+    },
+    "content_bits": 420448.0,
+    "nsl_floor": 1.0416204217536071,
+    "nsl_matched": 2.8921254231248885,
+    "matched_vocab": 2998,
+    "rho": 0.7403800364890123,
+    "attn_proxy_vs_eng": 69.23946267104301,
+    "attn_proxy_matched_vs_eng": 8.327187634191315
+  },
+  "Tamil": {
+    "n_sent": 1012,
+    "clusters": 99724,
+    "words": 20727,
+    "utf8_bytes": 421641,
+    "bytes_per_cluster": 4.228079499418395,
+    "tokens": {
+      "byte": 421641,
+      "grapheme": 99724,
+      "gpt2": 420177,
+      "cl100k_base": 207772,
+      "o200k_base": 53199,
+      "matched": 114281
+    },
+    "fertility_per_word": {
+      "byte": 20.34259661311333,
+      "grapheme": 4.811308920731413,
+      "gpt2": 20.271964104790854,
+      "cl100k_base": 10.024219616924784,
+      "o200k_base": 2.5666521927920103,
+      "matched": 5.513629565301298
+    },
+    "nsl": {
+      "byte": 3.191928597383721,
+      "grapheme": 0.7556794932027947,
+      "gpt2": 15.536791894690134,
+      "cl100k_base": 7.6437348245162235,
+      "o200k_base": 1.9796449968369738
+    },
+    "content_bits": 418112.0,
+    "nsl_floor": 1.0358332012050102,
+    "nsl_matched": 3.393342835085219,
+    "matched_vocab": 2020,
+    "rho": 0.6397594277463513,
+    "attn_proxy_vs_eng": 58.61794056607939,
+    "attn_proxy_matched_vs_eng": 11.431616894844527
+  },
+  "Kannada": {
+    "n_sent": 1012,
+    "clusters": 90471,
+    "words": 20406,
+    "utf8_bytes": 375480,
+    "bytes_per_cluster": 4.150280200285175,
+    "tokens": {
+      "byte": 375480,
+      "grapheme": 90471,
+      "gpt2": 367504,
+      "cl100k_base": 240818,
+      "o200k_base": 52975,
+      "matched": 99423
+    },
+    "fertility_per_word": {
+      "byte": 18.400470449867687,
+      "grapheme": 4.433548956189356,
+      "gpt2": 18.00960501813192,
+      "cl100k_base": 11.801332941291777,
+      "o200k_base": 2.59605018131922,
+      "matched": 4.872243457806528
+    },
+    "nsl": {
+      "byte": 2.8424781976744184,
+      "grapheme": 0.6855629480320689,
+      "gpt2": 13.58911403638515,
+      "cl100k_base": 8.859465822971083,
+      "o200k_base": 1.971309492799464
+    },
+    "content_bits": 427104.0,
+    "nsl_floor": 1.0581100364674172,
+    "nsl_matched": 2.9521646178514165,
+    "matched_vocab": 2676,
+    "rho": 0.7516161197436892,
+    "attn_proxy_vs_eng": 79.43720777341125,
+    "attn_proxy_matched_vs_eng": 8.737869894415116
+  }
+}

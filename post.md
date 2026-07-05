@@ -28,7 +28,7 @@ we couldn't measure honestly and so report as open).
 Everything reproduces from one command — no GPU, no model weights.
 
 📄 Preprint: [arXiv link — pending]
-💻 Code + one-command reproduction: https://github.com/samyama-ai/optimal-language-for-foundation-models
+💻 Code + one-command reproduction: https://github.com/samyama-ai/token-cost-ledger
 
 This is a first brick in a larger question we find fascinating — what *would* a near-optimal language
 for foundation models look like? We'd love pushback, especially from folks working on multilingual

@@ -11,7 +11,7 @@ authors:
     email: sandeep@samyama.ai
     affiliation: "VaidhyaMegha Private Limited"
 license: Apache-2.0
-repository-code: "https://github.com/samyama-ai/optimal-language-for-foundation-models"
+repository-code: "https://github.com/samyama-ai/token-cost-ledger"
 keywords:
   - tokenization
   - information theory

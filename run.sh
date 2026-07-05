@@ -8,7 +8,7 @@ cd "$(dirname "$0")"
 source ~/projects/venv/bin/activate
 cd src
 python run_all.py "$@"
-PAPER_DIR="${PAPER_FIG_DIR:-../../../graph_ws/samyama-research/papers/paper20-optimal-language-foundation-models}"
+PAPER_DIR="${PAPER_FIG_DIR:-../../../graph_ws/samyama-research/papers/paper20-token-cost-ledger}"
 if [ -d "$PAPER_DIR" ]; then
   python figures.py "$PAPER_DIR"
 else
